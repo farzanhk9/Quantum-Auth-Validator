@@ -1,4 +1,4 @@
-# A high-performance password strength validator using Entropy calculation
+# A high-performance password strength validator using Entropy calculation0
 import math
 import re
 
