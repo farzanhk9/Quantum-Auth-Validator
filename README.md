@@ -1,5 +1,5 @@
 # A high-performance password strength validator using Entropy calculation
-import math000
+import math
 import re
 
 def calculate_entropy(password):
